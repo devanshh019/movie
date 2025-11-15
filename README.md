@@ -25,6 +25,7 @@ Built using the **TMDB 5000 Movies Dataset**, processed and deployed using **Str
 
 ## 📂 Project Structure
 ├── app.py # Streamlit UI + recommendation logic
+
 ├── model.ipynb # Preprocessing + similarity matrix creation
 
 
